@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Einshouka</h1>
-<h3 align="center">Business Analyst | Data Scientist | Flutter Developer | 3rd Place @ Genius Olympiad 2019 USA | Gold Medalist @ Kangaroo Math | 3rd Place @ Intel ISEF | Expertise in Data Analysis, Regression Analysis, Java & Python Development</h3>
+<h3 align="center">Business Analyst | Data Scientist | Flutter Developer |🥉 3rd Place @ Genius Olympiad 2019 USA |🥇 Gold Medalist @ Kangaroo Math | 🥉 3rd Place @ Intel ISEF | Expertise in  📈Data Analysis, Regression Analysis, Java & Python Development</h3>
 
 - 🔭 I’m currently working on [Guide_Go](https://github.com/ahmedeinshouka/guide_go)
 
